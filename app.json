@@ -1,5 +1,5 @@
 {
-    "name": "Calls Music 2",
+    "name": "Hybrid Music Bot",
     "description": "Stream audio in Telegram group calls using GramJS and tgcallsjs",
     "keywords": ["telegram", "music"],
     "repository": "https://github.com/Mrhellbeast/HybridMusicBot",
