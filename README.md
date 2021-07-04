@@ -1,4 +1,4 @@
-# Calls Music 2 — Stream audio in Telegram calls using GramJS and tgcallsjs
+# Hybrid Music bot— Stream audio in Telegram calls using GramJS and tgcallsjs
 
 ## Requirements
 
@@ -31,7 +31,7 @@ This bot needs a Linux system, Node JS version 15 or newer with the packages spe
 
 ### Heroku
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/callsmusic/callsmusic2)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mrhellbeast/HybridMusicBot)
 
 -   You can generate a string session [here](https://rojserbest.github.io/bssg).
 

@@ -2,7 +2,7 @@
     "name": "Calls Music 2",
     "description": "Stream audio in Telegram group calls using GramJS and tgcallsjs",
     "keywords": ["telegram", "music"],
-    "repository": "https://github.com/callsmusic/callsmusic2",
+    "repository": "https://github.com/Mrhellbeast/HybridMusicBot",
     "env": {
         "STRING_SESSION": {
             "description": "A GramJS/Telethon string session. You can generate one at https://rojserbest.github.io/bssg.",
