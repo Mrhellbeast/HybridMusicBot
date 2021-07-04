@@ -7,7 +7,7 @@ composer.command("start", async (ctx) => {
     await ctx.reply(
         `<b>👋🏻 Hi ${createUserLink(ctx.from)}!</b>
 
-I am Calls Music bot, I let you play music in group calls.
+I am Hybrid Music Bot, I let you play music in group calls.
 
 The commands I currently support are:
 
