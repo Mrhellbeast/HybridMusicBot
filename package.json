@@ -1,12 +1,12 @@
 {
-  "name": "callsmusic",
+  "name": "HybridMusicBot",
   "version": "2.0.0",
   "description": "A Telegram bot to stream audio in calls using GramJS and tgcallsjs",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Roj Serbest <rojserbest@icloud.com>",
+  "author": "Elric <>",
   "dependencies": {
     "dotenv": "^8.2.0",
     "ejs": "^3.1.6",
